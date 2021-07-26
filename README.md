@@ -1,7 +1,9 @@
 # Api de um Blog Simples
-tecnologias:
-Spring Data
-Spring boot
-Spring Security
-Hibernate
-Angular
+<strong>Tecnologias:</strong>
+ <ul>
+ <li>Spring Data</li>
+ <li>Spring boot</li>
+ <li>Spring Security</li>
+ <li>Hibernate</li>
+ <li>Angular</li>
+
