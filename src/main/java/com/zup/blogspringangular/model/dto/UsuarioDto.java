@@ -1,6 +1,6 @@
 package com.zup.blogspringangular.model.dto;
 
-public class RegisterRequest {
+public class UsuarioDto {
 
     private  String usuario;
     private String senha;
